@@ -42,7 +42,7 @@
 ##### View insights into the dataset's structure, missing values, and statistical summaries.
 #### **3. Descriptive Statistics (descriptive_statistics_tab):**
 ##### View descriptive statistics of the dataset.
-#### **4. Box Plot (box_plot):**
+#### **4. Box Plot (box_plot):** 
 ##### Customize and visualize box plots based on selected category and value.
 #### **5. Exploratory Data Analysis (exploratory_data_analysis_tab):**
 ##### Customize and visualize histograms based on selected feature and bins.
